@@ -55,3 +55,10 @@ layout: default
 ## 五、 关键注意事项：省钱省心的血泪经验
 
   *   **套餐有效期看清楚！** 旅游套餐通常是7天、15天、
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Mongolia SIM 卡购买与激活指南](https://faciylike.github.io/mongolia-sim-guides)
